@@ -1,0 +1,7 @@
+{
+  "holdDurationMs": 6000,
+  "transitionDurationMs": 4200,
+  "scaleExtent": [0.5, 6],
+  "imageDisplaySize": 180,
+  "shuffleOrder": false
+}

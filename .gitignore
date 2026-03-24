@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Build output (Vercel / CI builds fresh)
+dist/
+
+# OS / editor
+.DS_Store
+*.log
+.env
+.env.*

@@ -1,0 +1,19 @@
+# Dependencies (Vercel runs npm ci)
+node_modules
+
+# Build output (Vercel builds fresh)
+dist
+
+# Git and env
+.git
+.env
+.env.*
+*.log
+.DS_Store
+
+# Editor / IDE
+.cursor
+.vscode
+.idea
+*.swp
+*~

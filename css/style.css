@@ -1,0 +1,124 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+  font-family: "Cormorant Garamond", "Georgia", serif;
+  background: linear-gradient(145deg, #f5f0e8 0%, #e8e0d5 50%, #f0ebe2 100%);
+}
+
+#app {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+#canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+}
+
+#canvas:active {
+  cursor: grabbing;
+}
+
+#backdrop {
+  pointer-events: none;
+}
+
+#zoom-group {
+  transform-origin: 0 0;
+}
+
+.photo-wrap {
+  cursor: pointer;
+  filter: url(#photo-shadow);
+  transition: filter 0.2s ease, opacity 0.6s ease;
+  opacity: 0.42;
+}
+
+.photo-wrap:hover {
+  filter: url(#photo-shadow-hover);
+}
+
+.photo-wrap.focused {
+  opacity: 1;
+}
+
+.photo-wrap.focused .photo-frame {
+  filter: url(#photo-shadow-hover);
+}
+
+.photo-frame {
+  fill: #fffef9;
+  stroke: rgba(0, 0, 0, 0.08);
+  stroke-width: 1;
+  rx: 3;
+  ry: 3;
+}
+
+.photo-image {
+  pointer-events: none;
+}
+
+.photo-caption-inline {
+  font-family: inherit;
+  font-size: 7px;
+  fill: #4a4038;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.photo-wrap.focused .photo-caption-inline {
+  opacity: 1;
+}
+
+#controls {
+  position: fixed;
+  bottom: 1.25rem;
+  right: 1.25rem;
+  display: flex;
+  gap: 0.125rem;
+  padding: 0.25rem;
+  background: rgba(255, 255, 255, 0.96);
+  border-radius: 1.5rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  opacity: 0.96;
+  transition: opacity 0.2s ease;
+}
+
+#controls:hover {
+  opacity: 0.78;
+}
+
+#controls button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: transparent;
+  color: #4a4038;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+#controls button:hover {
+  background: rgba(180, 160, 140, 0.25);
+  color: #2a2520;
+}
+
+#controls button:focus {
+  outline: 2px solid rgba(140, 120, 100, 0.5);
+  outline-offset: 2px;
+}
