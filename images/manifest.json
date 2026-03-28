@@ -1,42 +1,222 @@
 [
-  { "src": "https://picsum.photos/seed/1/400/300", "caption": "Our story began here—the day we said yes to forever." },
-  { "src": "https://picsum.photos/seed/2/400/300", "caption": "Together in the garden right after the ceremony." },
-  { "src": "https://picsum.photos/seed/3/400/300", "caption": "Celebration with everyone we love in one place." },
-  { "src": "https://picsum.photos/seed/4/400/300", "caption": "Memories we’ll keep for the rest of our lives." },
-  { "src": "https://picsum.photos/seed/5/400/300", "caption": "Joy. Nothing else describes this moment." },
-  { "src": "https://picsum.photos/seed/6/400/300", "caption": "Love" },
-  { "src": "https://picsum.photos/seed/7/400/300", "caption": "Family—old and new—all in one frame." },
-  { "src": "https://picsum.photos/seed/8/400/300", "caption": "Forever starts today." },
-  { "src": "https://picsum.photos/seed/9/400/300", "caption": "First dance. We practiced for weeks and still stepped on each other’s feet." },
-  { "src": "https://picsum.photos/seed/10/400/300", "caption": "Vows under the oak tree at sunset." },
-  { "src": "https://picsum.photos/seed/11/400/300", "caption": "Bouquet toss—someone’s going to be next." },
-  { "src": "https://picsum.photos/seed/12/400/300", "caption": "Reception setup before the guests arrived." },
-  { "src": "https://picsum.photos/seed/13/400/300", "caption": "Cake cutting. We went with vanilla and lemon." },
-  { "src": "https://picsum.photos/seed/14/400/300", "caption": "Toasts from the best man and maid of honor." },
-  { "src": "https://picsum.photos/seed/15/400/300", "caption": "Dancing until the last song." },
-  { "src": "https://picsum.photos/seed/16/400/300", "caption": "Rings" },
-  { "src": "https://picsum.photos/seed/17/400/300", "caption": "Ceremony—the part we’ll never forget." },
-  { "src": "https://picsum.photos/seed/18/400/300", "caption": "Bridal party on the steps. We couldn’t have done it without you." },
-  { "src": "https://picsum.photos/seed/19/400/300", "caption": "Details: place cards, favors, and a lot of candles." },
-  { "src": "https://picsum.photos/seed/20/400/300", "caption": "Venue at golden hour." },
-  { "src": "https://picsum.photos/seed/21/400/300", "caption": "Getting ready in the morning with mimosas and good music." },
-  { "src": "https://picsum.photos/seed/22/400/300", "caption": "First look. No words—just tears and laughter." },
-  { "src": "https://picsum.photos/seed/23/400/300", "caption": "Portraits by the lake before the storm rolled in." },
-  { "src": "https://picsum.photos/seed/24/400/300", "caption": "Guests arriving. So many faces we’ve missed." },
-  { "src": "https://picsum.photos/seed/25/400/300", "caption": "Smiles all around." },
-  { "src": "https://picsum.photos/seed/26/400/300", "caption": "Confetti exit. Worth every bit of cleanup." },
-  { "src": "https://picsum.photos/seed/27/400/300", "caption": "Sunset portraits. The light was perfect." },
-  { "src": "https://picsum.photos/seed/28/400/300", "caption": "Tables set and ready for dinner." },
-  { "src": "https://picsum.photos/seed/29/400/300", "caption": "Flowers from the local florist—wild and simple." },
-  { "src": "https://picsum.photos/seed/30/400/300", "caption": "Candles everywhere. It felt like a dream." },
-  { "src": "https://picsum.photos/seed/31/400/300", "caption": "Hugs from grandma. She said she’d been waiting for this day." },
-  { "src": "https://picsum.photos/seed/32/400/300", "caption": "Cheers to the newlyweds." },
-  { "src": "https://picsum.photos/seed/33/400/300", "caption": "Sparkler send-off. Our favorite photo of the night." },
-  { "src": "https://picsum.photos/seed/34/400/300", "caption": "Exit through the crowd. Best walk of our lives." },
-  { "src": "https://picsum.photos/seed/35/400/300", "caption": "Newlyweds" },
-  { "src": "https://picsum.photos/seed/36/400/300", "caption": "Kiss" },
-  { "src": "https://picsum.photos/seed/37/400/300", "caption": "Walk down the aisle. Everything else faded away." },
-  { "src": "https://picsum.photos/seed/38/400/300", "caption": "Moment" },
-  { "src": "https://picsum.photos/seed/39/400/300", "caption": "Day we’ll remember forever." },
-  { "src": "https://picsum.photos/seed/40/400/300", "caption": "Always." }
+  {
+    "src": "images/photos/37e6d9f0-1da5-41ff-9257-5574e896ad37.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/75587c24-9def-4eba-851f-50332251a800.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/cbdbe812-743c-41eb-82bb-2b948b3ce412.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/fcc9b698-758a-4378-974c-bc3aebb04674.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0006.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0007.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0008.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0010.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0012.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0013.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0014.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0026.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0028.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0029.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0035.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0036.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0038.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0040.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0041.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0042.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0046.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0357.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0491.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0552.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_0789.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_1008_Original.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_1454_Original.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_1576_Original.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_1577.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_1633.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_1731.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_2238.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_2334.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_2347.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_2351.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_2438.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_2450.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_2769.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_2811.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_3262.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_3265.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_3338.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_3443.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_3737.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_4668.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_4750.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_4944.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_5588.jpeg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_5814.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_6600.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_8298.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_8311.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_8328.JPG",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_8517.jpg",
+    "caption": ""
+  },
+  {
+    "src": "images/photos/IMG_9829.jpg",
+    "caption": ""
+  }
 ]
